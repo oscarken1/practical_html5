@@ -1,5 +1,5 @@
 var b = document.getElementById('myAddToCartButton');
 
-b.onclick = functions () {
+b.onclick = functions (); {
     alert('your coffee was added to the cart');
 }
